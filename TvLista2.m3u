@@ -1,7 +1,27 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="45TV.hn",SBT TV
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="504TV.hn",RECORD
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+
 #EXTINF:-1 tvg-id="ActivaTV.hn",TV ANIME
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="http://s26.postimg.org/gggjtc1ix/assistir-telecine-liberado.jpg",Telecine Premium
+http://str01.ddns.net/005/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="http://s26.postimg.org/sh1zu28xl/ACTION_assinatura.jpg",Telecine Action
+http://str01.ddns.net/004/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="http://s26.postimg.org/i0lvrq9x5/117762540_1280x720.jpg",Telecine Touch
+http://str04.ddns.net/109/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="http://s26.postimg.org/5fq021ynt/telecine-fun.jpg",Telecine Fun
+http://str02.ddns.net/051/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="http://s26.postimg.org/vql0e9mex/images.jpg",Telecine Pipoca
+http://str01.ddns.net/001/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Cult [Brazil]" tvg-logo="http://s26.postimg.org/b9022mabd/793b7ea395ed2001b187776a8d259888.jpg" group-title="TELECINES",Telecine Cult HD
+http://str02.ddns.net/055/myStream/playlist.m3u8
