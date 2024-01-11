@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="45TV.hn",TV GLOBO
+#EXTINF:-1 tvg-id="45TV.hn",SBT TV
 http://202.142.203.28:1935/live/sbt_tv_aac_300/playlist.m3u8
 #EXTINF:-1 tvg-id="504TV.hn",504 TV (720p)
 https://mediacp.us:8081/504tvhn/index.m3u8
